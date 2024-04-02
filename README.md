@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @Sato-afk
 - 👀 I’m interested in Coding, Games and Bodybuilding
+- 📚 Experience in C, HTML, CSS and JS
 - 🌱 I’m currently learning Java, C++, Python
 - 💞️ I’m looking to collaborate on mobile apps development
 - 📫 How to reach me:
       Email: marcossato030@gmail.com
-- ⚡ Fun fact: I love to draw and do graphic designs for websites and business
+- ⚡ Fun fact: I love to draw and make graphic designs for websites and business
 
 <!---
 Sato-afk/Sato-afk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
